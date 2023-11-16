@@ -1,0 +1,42 @@
+.contenedor {
+    font-size: 16px;
+}
+
+.ems {
+    font-size: 1.5em;
+}
+
+.ems2 {
+    font-size: 1.2em;
+}
+
+.ems3 {
+    font-size: 0.8em;
+}
+
+.caja1 {
+    width: 20rem;
+    border: 1px solid black;
+}
+
+.caja2 {
+    width: 15rem;
+    border: 1px solid black;
+}
+
+.caja3 {
+    width: 10rem;
+    border: 1px solid black;
+}
+
+.li1 {
+    margin: 0.5em;
+}
+
+.li2 {
+    margin: 1em;
+}
+
+.li3 {
+    margin: 1.5em;
+}

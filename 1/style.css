@@ -1,0 +1,32 @@
+.contenedor {
+    width: 500px;
+    background-color: blue;
+    height: 300px;
+}
+
+header {
+    height: 80px;
+    background-color: aquamarine;
+}
+
+img {
+    width: 30vmax;
+}
+
+.contenedor2 {
+    background-color: red;
+    width: 200px;
+}
+
+#cuadrado {
+    width: 50%;
+    background-color: blue;
+}
+
+.columnas {
+    display: flex;
+}
+
+#columna200 {
+    width: 200px;
+}

@@ -1,0 +1,47 @@
+.contenedor {
+    background-color: deepskyblue;
+    height: 300px;
+    width: 200px;
+}
+
+.color1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: #00F278;
+}
+
+.color2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: #FF2376;
+}
+
+.color3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: #FF0000;
+}
+
+.rgb {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: rgb(22 135 101 / .4)
+}
+
+.hsl1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: hsl(322, 95%, 22%);
+}
+
+.hsl2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: hsl(329, 45%, 90%);
+}
